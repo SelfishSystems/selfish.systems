@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/videah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://selfish.systems
+  * I am videah (https://keybase.io/videah) on keybase.
+  * I have a public key with fingerprint 551D 46A0 8B7A EDD9 2557  6B26 1F4B 1F6D 26EE 2AF3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0113b1641b9ae03976c7902cdc64f3f7f485c20353360d767bb604a9d6342348a39c0a",
+      "fingerprint": "551d46a08b7aedd925576b261f4b1f6d26ee2af3",
+      "host": "keybase.io",
+      "key_id": "1f4b1f6d26ee2af3",
+      "kid": "0113b1641b9ae03976c7902cdc64f3f7f485c20353360d767bb604a9d6342348a39c0a",
+      "uid": "1bbafc1e01df7a90eadd626f43b7ed19",
+      "username": "videah"
+    },
+    "service": {
+      "hostname": "selfish.systems",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501417326,
+  "expire_in": 157680000,
+  "prev": "91bac451a1c47441e00d40c42abd6c66b8388d6ef4520a21dc5fa83a7c71680a",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUr1rFEEU32gsPIw5OPxojuCAp0gM87UzuwcWwQ8iqVUM6N18vMkNSXYvu5uL
+MQQsBS1iYas2/gt2Yi0WNgpaWQiCQtJYK87GpLN0mse89/v93ns/3vbE4ajRmpqf
+WunsXvg59u67jm5vvV/dRDq3G6i7iZZgL8CyhbLqLXmLuggTwjQRnOhUAWapFEam
+mBprBHfMSceT2FDMYsYEtlJIrQXmKrWCccp4olhqsELTyPlsEYph4bMqyMYxsVwo
+nGipwNqUxrEUmgriuCZOWCoAqHIsEAd5WTPCcFqVMOPzkAuf3t54/8D/57nX/vbR
+WjlDABPrpEoxKGsFFY4zLcGStAaWUGRqBQJ65C2oAdqaRiE38gZqW+s99uslLDtf
+DmbKjbKClTKQh0Ve5SZfDsVBVQ3Lbk2uNoY1eh10b1+np31mg5GBMYKi9HmGuiQg
+TeVrYRJjwolkVEwjuDf0BfR8jQjeJji8ug+MgmRKtDJ8ISaKGC45D4thy7HhVGkr
+jBA6YUliBTgeU6wosSZ2KmFKGkmCVm1MCatZjrpxUK3UYr2VX8xUtVYA2mo8XBuP
+Wo2offLM+I32tReP7u98PntrqXNwfEcO1ZcXNY42DzKPT41FX68e/7bz4OLkwvVm
+O598eWzuzo/tnflns53B6dlLX962o9/nfl0532/ujjbnPr5+uv7qBE0v3/zQbz3/
+1L/bm3gyfPMH
+=Z+tw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/videah
+
+==================================================================
+
